@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nethra - Portfolio</title>
+<style>
+body { font-family: Arial; text-align: center; background: #fff0f5; margin: 0; padding: 0; }
+header { background: #ff4d8d; color: white; padding: 40px; }
+h1 { margin: 0; font-size: 40px; }
+section { padding: 30px; }
+.card { background: white; padding: 20px; margin: 15px auto; width: 80%; border-radius: 15px; box-shadow: 0 0 10px #ddd; }
+button { background: #ff4d8d; color: white; border: none; padding: 12px 25px; border-radius: 20px; font-size: 16px; }
+</style>
+</head>
+<body>
+<header>
+<h1>Hi, I'm Nethra! 👋</h1>
+<p>MERN Developer | Chennai</p>
+</header>
+<section>
+<div class="card">
+<h2>About Me</h2>
+<p>Naan MERN Stack kathukitu iruken. Enakku website panna romba pudikum!</p>
+</div>
+<div class="card">
+<h2>My Skills</h2>
+<p>MongoDB | Express | React | Node.js | HTML | CSS</p>
+</div>
+<div class="card">
+<h2>My Projects</h2>
+<p>1. Portfolio Website<br>2. WhatsApp Clone<br>3. To-Do App</p>
+<button>Contact Me</button>
+</div>
+</section>
+</body>
+</html>
